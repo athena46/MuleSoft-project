@@ -16,3 +16,8 @@ The code is in the java file InsertMovies.java and it inserts 3 movie details in
 5.Querying data from Movies table with or without parameters
 The code to issue a simple SELECT statement to query all rows from the Movies table is in SelectAll.java.
 The code to use a query with parameter like actor name to select movies based on the actor's name is in the SelectApp.java file.
+
+
+Screenshot of the output of SelectAll and SelectApp
+![Capture](https://user-images.githubusercontent.com/53125219/159151931-a18d1430-70ac-4c5c-8d72-d24532dc2051.JPG)
+![Capture1](https://user-images.githubusercontent.com/53125219/159151938-c300f33e-3968-4791-bba9-f46222742550.JPG)
